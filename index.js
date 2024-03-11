@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('HAMUSTA')
     .setDetails(`HAMUSTA 👋⚓ [${formatTime()}]`)
     .setStartTimestamp(Date.now())
-    .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1060830136414519336/1180670570862485645/1_-KlOGKrl0EJsPWncAZ6FiQ.gif?ex=65f63ca7&is=65e3c7a7&hm=d9102f1cbd2ebda861df7f811a85467d423fb2eec09288d13dd8a63927d82f87&') //You can put links in tenor or discord and etc.
+    .setAssetsLargeImage('https://media.discordapp.net/attachments/740833438352932920/1216583853481660446/hamster-kiss.png?ex=6600eb01&is=65ee7601&hm=07f10929fe7873d914f164783cdf7e3629b0bb9b3883d10b7c6d9bc03de6636d&=&format=webp&quality=lossless') //You can put links in tenor or discord and etc.
 
     .setAssetsSmallImage('https://cdn.discordapp.com/emojis/731154864360390726.gif?size=96&quality=lossless') //You can put links in tenor or discord and etc.
 

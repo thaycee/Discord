@@ -24,7 +24,7 @@ client.on('ready', async () => {
 
   const r = new Discord.RichPresence()
     .setApplicationId('1216562877583069325')
-    .setType('STREAMING')
+    .setType('PLAYING')
     .setURL('https://www.twitch.tv/thirstymonster') //Must be a youtube video link 
     .setState('KIFFY')
     .setName('HAMUSTA')

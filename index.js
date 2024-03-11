@@ -34,9 +34,6 @@ client.on('ready', async () => {
 
     .setAssetsSmallImage('https://cdn.discordapp.com/emojis/731154864360390726.gif?size=96&quality=lossless') //You can put links in tenor or discord and etc.
 
-    .addButton('DM', 'https://discord.gg/m1sery')
-    .addButton('ONLY FANS', 'https://www.youtube.com/watch?v=2xx_2XNxxfA');
-
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
 

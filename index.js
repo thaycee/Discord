@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('HAMUSTA')
     .setDetails(`HAMUSTA 👋⚓ [${formatTime()}]`)
     .setStartTimestamp(Date.now())
-    .setAssetsLargeImage('https://tenor.com/view/hamster-kiss-suck-girl-gif-5525710854024677285') //You can put links in tenor or discord and etc.
+    .setAssetsLargeImage('https://images-ext-2.discordapp.net/external/YMKODbv0H_DN2wGtPcLs5g8zZ5oMZXjg-DLk3vxRCCM/https/media.tenor.com/TK9EvsmpR6UAAAPo/hamster-kiss.mp4') //You can put links in tenor or discord and etc.
 
     .setAssetsSmallImage('https://cdn.discordapp.com/emojis/731154864360390726.gif?size=96&quality=lossless') //You can put links in tenor or discord and etc.
 
